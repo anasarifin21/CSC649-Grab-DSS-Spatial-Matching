@@ -13,11 +13,11 @@ This project proposes a **spatial Decision Support System (DSS)** paired with **
 
 ## 📁 Repository Structure & Documentation Links
 
-Detailed project breakdown, requirements, and technology briefs are located in the [`docs/`](./docs) folder:
+Detailed project breakdown, requirements, and technology briefs are located in the [`docs/`](./Docs) folder:
 
-* 📄 **[Problem Statement & Scope](./docs/problem-statement.md)** — Detailed problem formulation, user personas, and project boundaries (Part A)[cite: 3].
-* 📋 **[Requirements & User Stories](./docs/requirements.md)** — Functional requirements (FRs), Non-functional requirements (NFRs), and acceptance criteria (Part B)[cite: 3].
-* 🔬 **[Specialized Technology Brief](./docs/technology-brief.md)** — Deep dive into Decision Support Systems (DSS), UX frameworks, rule-based algorithms, and alternative comparisons (Part C)[cite: 3].
+* 📄 **[Problem Statement & Scope](./Docs/problem-statement.md)** — Detailed problem formulation, user personas, and project boundaries (Part A)[cite: 3].
+* 📋 **[Requirements & User Stories](./Docs/requirements.md)** — Functional requirements (FRs), Non-functional requirements (NFRs), and acceptance criteria (Part B)[cite: 3].
+* 🔬 **[Specialized Technology Brief](./Docs/technology-brief.md)** — Deep dive into Decision Support Systems (DSS), UX frameworks, rule-based algorithms, and alternative comparisons (Part C)[cite: 3].
 
 ---
 
