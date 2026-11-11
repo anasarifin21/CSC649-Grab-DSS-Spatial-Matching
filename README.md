@@ -22,8 +22,8 @@ Detailed project breakdown, requirements, and technology briefs are located in t
 ---
 
 ## 📊 Project Metadata & Status
-* **Course:** CSC649 - Special Topics in Computer Science[cite: 2]
+* **Course:** CSC649 - Special Topics in Computer Science
 * **Project Status:** `Completed / Submitted`
-* **Author:** [Your Full Name]
-* **Student ID:** [Your Student ID Number]
-* **Lecturer:** Ts. Dr. Ahmad Faiz Ghazali[cite: 2]
+* **Author:** MUHAMMAD ANAS ARIFIN BIN KAMARULARIFIN
+* **Student ID:** 2025440888
+* **Lecturer:** Ts. Dr. Ahmad Faiz Ghazali
